@@ -8,7 +8,7 @@ An interactive AI girlfriend chatbot with multiple personalities, built with Str
 
 ---
 
-📺 Live Demo
+## 📺 Live Demo
 
 🔗[Live Demo](https://n4ctgfuebugvcsgh4xstr7.streamlit.app/)
 
