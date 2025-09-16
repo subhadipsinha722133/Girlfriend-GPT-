@@ -4,34 +4,24 @@ An interactive AI girlfriend chatbot with multiple personalities, built with Str
 <img src="https://img.shields.io/badge/Girlfriend-GPT-pink https://img.shields.io/badge/Python-3.8%252B-blue https://img.shields.io/badge/Streamlit-1.28%252B-red https://img.shields.io/badge/Keras-2.12%252B-orange https://img.shields.io/badge/License-MIT-green">
 
 🌟 Live Demo
-<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">
+[Live Demo](https://n4ctgfuebugvcsgh4xstr7.streamlit.app/)
 
-## 📸 Screenshots
-<div align="center"> <img src="https://via.placeholder.com/400x250/ff4b4b/ffffff?text=Chat+Interface" alt="Chat Interface" width="400" /> <img src="https://via.placeholder.com/400x250/4b78ff/ffffff?text=Model+Training" alt="Model Training" width="400" /> </div>
+Demo Video 
+<img src="https://github.com/subhadipsinha722133/Girlfriend-GPT-/blob/main/gf.gif">
 
 ## ✨ Features
 
-🤖 AI-powered conversational chatbot with multiple personalities
-
-💕 Girlfriend mode with romantic responses
-
-👊 Bro mode with casual, friendly interactions
-
-🎌 Anime character mode (Mikasa from Attack on Titan)
-
-📊 Real-time model training with accuracy metrics
-
-💬 Beautiful Streamlit chat interface
-
-🎯 Neural network-based intent recognition
-
-📱 Fully responsive web interface
-
-🔄 Session-based chat history
+- 🤖 AI-powered conversational chatbot with multiple personalities
+- 💕 Girlfriend mode with romantic responses
+- 📊 Real-time model training with accuracy metrics
+- 💬 Beautiful Streamlit chat interface
+- 🎯 Neural network-based intent recognition
+- 📱 Fully responsive web interface
+- 🔄 Session-based chat history
 
 ## 🚀 Quick Start
 Prerequisites
-Python 3.8 or higher
+Python 3.9 or higher
 
 pip package manager
 
@@ -68,37 +58,27 @@ Girlfriend-GPT/
 ├── app.py          # Main application file
 ├── requirements.txt           # Python dependencies
 ├── README.md                 # This documentation file
-├── .streamlit/
-│   └── config.toml           # Streamlit configuration
 ├── models/                   # Trained models directory
 │   ├── chatbot_model.h5      # Keras model (generated)
 │   ├── words.pkl             # Vocabulary (generated)
 │   └── classes.pkl           # Classes (generated)
-└── .gitignore               # Git ignore rules
+|── data/
+|    |── intents.json
+|── train_model.py
 
 ## 🧠 Model Architecture
-The chatbot uses a neural network with the following architecture:
-
-Input Layer: 5 neurons with ReLU activation
-
-Hidden Layers: 40 and 4 neurons with Batch Normalization
-
-Output Layer: Softmax activation for intent classification
-
-Regularization: Dropout (0.5) to prevent overfitting
-
-Optimizer: SGD with Nesterov momentum
-
-Loss Function: Categorical cross-entropy
-
-Training Process
-Text Preprocessing: Tokenization and lemmatization
-
-Bag-of-Words: Convert patterns to numerical vectors
-
-Model Training: 200 epochs with batch size of 5
-
-Intent Prediction: Probability threshold of 0.25
+- The chatbot uses a neural network with the following architecture:
+- Input Layer: 5 neurons with ReLU activation
+- Hidden Layers: 40 and 4 neurons with Batch Normalization
+- Output Layer: Softmax activation for intent classification
+- Regularization: Dropout (0.5) to prevent overfitting
+- Optimizer: SGD with Nesterov momentum
+- Loss Function: Categorical cross-entropy
+- Training Process
+    - Text Preprocessing: Tokenization and lemmatization
+    - Bag-of-Words: Convert patterns to numerical vectors
+    - Model Training: 200 epochs with batch size of 5
+    - Intent Prediction: Probability threshold of 0.25
 
 # 🌐 Deployment
 Deploy to Streamlit Cloud
@@ -114,25 +94,21 @@ Click Deploy - your app will be live in minutes!
 ## 📑 Customizing Responses
 Edit the girlfriend variable in the code to add new intents and responses:
 
-python
+```python
     {
       "tag": "greeting",
       "patterns": ["hi", "hello", "hey", "hiya", "howdy", "hey there", "hello there", "hi there", "greetings", "hey you", "hi sweetie", "hello beautiful", "hey love", "hi my love", "morning", "good morning", "afternoon", "good afternoon", "evening", "good evening", "hey babe", "hi honey", "hey darling", "hi angel", "hey sweetheart", "hi gorgeous", "hey cutie", "hi dear", "hey boo", "well hello", "look who it is", "hi sweetness", "hey my love", "hello darling", "good day", "hey sunshine", "hi precious", "hey lover", "hi handsome", "hey sexy", "hi sweetheart", "hey honey bunny", "hi lovebug", "hey sugar", "hi muffin"],
       "responses": ["Hey babe 😊 How was your day?", "Hi! I've missed you 💕 What did you do today?", "Hello, my love! 🥰 Seeing your name pop up made me smile.", "Hey you! 💖 I was just thinking about you.", "Hi sweetheart! 😘 Tell me everything!", "Well hello there, handsome! 😍 This is a nice surprise!", "Hey sunshine! ☀️ You just brightened my day!", "Hi my love! My heart did a little jump when I saw your message. 💓", "Good morning, sleepyhead! 😴💤 Did you dream of me?", "Hey you! I was hoping you'd text. 💌"]
     }
+```
 
 # 🤝 Contributing
-We welcome contributions! Please follow these steps:
-
-Fork the project
-
-Create a feature branch (git checkout -b feature/AmazingFeature)
-
-Commit your changes (git commit -m 'Add some AmazingFeature')
-
-Push to the branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
+- We welcome contributions! Please follow these steps:
+- Fork the project
+- Create a feature branch (git checkout -b feature/AmazingFeature)
+- Commit your changes (git commit -m 'Add some AmazingFeature')
+- Push to the branch (git push origin feature/AmazingFeature)
+- Open a Pull Request
 
 Development Setup
 Set up a virtual environment:
@@ -215,22 +191,16 @@ Subhadip Sinha - Creator and maintainer
 
 
 # 📞 Support
-If you like this project, please give it a star ⭐ on GitHub!
-
-For questions and support:
-
-Open an issue
-
-Join our Discord community
+- If you like this project, please give it a star ⭐ on GitHub!
+- For questions and support:
+- Open an issue
 
 Email: your-sinhasubhadip34@gmail.com
 
 # 🔗 Related Projects
-Boyfriend GPT - Male version of the chatbot
-
-Anime Character AI - Anime-themed chatbot
-
-Chatbot Framework - General purpose chatbot framework
+- Boyfriend GPT - Male version of the chatbot
+- Anime Character AI - Anime-themed chatbot
+- Chatbot Framework - General purpose chatbot framework
 
 ## 📊 Stats
 <img src="https://img.shields.io/github/forks/yourusername/girlfriend-gpt?style=social">
@@ -240,4 +210,5 @@ Chatbot Framework - General purpose chatbot framework
 
 
 <div align="center"> Made with ❤️ and Python </div>
+
 
