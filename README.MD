@@ -11,7 +11,7 @@ An interactive AI girlfriend chatbot with multiple personalities, built with Str
 
 📺 Live Demo
 
-🔗[Live Demo](https://n4ctgfuebugvcsgh4xstr7.stream lit.app/)
+🔗[Live Demo](https://n4ctgfuebugvcsgh4xstr7.streamlit.app/)
 
 🎬Demo Video 
 <img src="https://github.com/subhadipsinha722133/Girlfriend-GPT-/blob/main/gf.gif">
@@ -240,6 +240,7 @@ Email: your-sinhasubhadip34@gmail.com
 ---
 
 <div align="center"> Made with ❤️ and Python </div>
+
 
 
 
