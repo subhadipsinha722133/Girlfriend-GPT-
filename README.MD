@@ -203,12 +203,13 @@ Email: your-sinhasubhadip34@gmail.com
 - Chatbot Framework - General purpose chatbot framework
 
 ## 📊 Stats
-<img src="https://img.shields.io/github/forks/yourusername/girlfriend-gpt?style=social">
-<img src="https://img.shields.io/github/stars/yourusername/girlfriend-gpt?style=social">
-<img src="https://img.shields.io/github/issues/yourusername/girlfriend-gpt">
-<img src="https://img.shields.io/github/issues-pr/yourusername/girlfriend-gpt">
+<img src="https://img.shields.io/github/forks/subhadipsinha722133/girlfriend-gp?style=social">
+<img src="https://img.shields.io/github/stars/subhadipsinha722133/girlfriend-gpt?style=social">
+<img src="https://img.shields.io/github/issues/subhadipsinha722133/girlfriend-gpt">
+<img src="https://img.shields.io/github/issues-pr/subhadipsinha722133/girlfriend-gpt">
 
 
 <div align="center"> Made with ❤️ and Python </div>
+
 
 
