@@ -1,16 +1,19 @@
 # Girlfriend GPT 💕
 An interactive AI girlfriend chatbot with multiple personalities, built with Streamlit and Keras. Experience conversations with different AI personalities including girlfriend mode, bro mode, and anime character mode!
 
-<img src="https://img.shields.io/badge/Girlfriend-GPT-pink https://img.shields.io/badge/Python-3.8%252B-blue">
+<img src="https://img.shields.io/badge/Girlfriend-GPT-pink">
+<img src="https://img.shields.io/badge/Python-3.8%252B-blue">
 <img src="https://img.shields.io/badge/Streamlit-1.28%252B-red"> 
-<img src="https://img.shields.io/badge/Keras-2.12%252B-orange https://img.shields.io/badge/License-Boost Software License-green">
+<img src="https://img.shields.io/badge/Keras-2.12%252B-orange">
+<img src="https://img.shields.io/badge/License-Boost Software License-green">
+
 ---
 
-🌟 Live Demo
+📺 Live Demo
 
-[Live Demo](https://n4ctgfuebugvcsgh4xstr7.streamlit.app/)
+🔗[Live Demo](https://n4ctgfuebugvcsgh4xstr7.stream lit.app/)
 
-Demo Video 
+🎬Demo Video 
 <img src="https://github.com/subhadipsinha722133/Girlfriend-GPT-/blob/main/gf.gif">
 
 ---
@@ -237,6 +240,7 @@ Email: your-sinhasubhadip34@gmail.com
 ---
 
 <div align="center"> Made with ❤️ and Python </div>
+
 
 
 
