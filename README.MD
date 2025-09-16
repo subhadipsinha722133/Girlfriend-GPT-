@@ -1,13 +1,19 @@
 # Girlfriend GPT 💕
 An interactive AI girlfriend chatbot with multiple personalities, built with Streamlit and Keras. Experience conversations with different AI personalities including girlfriend mode, bro mode, and anime character mode!
 
-<img src="https://img.shields.io/badge/Girlfriend-GPT-pink https://img.shields.io/badge/Python-3.8%252B-blue https://img.shields.io/badge/Streamlit-1.28%252B-red https://img.shields.io/badge/Keras-2.12%252B-orange https://img.shields.io/badge/License-MIT-green">
+<img src="https://img.shields.io/badge/Girlfriend-GPT-pink https://img.shields.io/badge/Python-3.8%252B-blue">
+<img src="https://img.shields.io/badge/Streamlit-1.28%252B-red"> 
+<img src="https://img.shields.io/badge/Keras-2.12%252B-orange https://img.shields.io/badge/License-MIT-green">
+---
 
 🌟 Live Demo
+
 [Live Demo](https://n4ctgfuebugvcsgh4xstr7.streamlit.app/)
 
 Demo Video 
 <img src="https://github.com/subhadipsinha722133/Girlfriend-GPT-/blob/main/gf.gif">
+
+---
 
 ## ✨ Features
 
@@ -42,6 +48,7 @@ Run the application
 streamlit run app.py
 Open your browser and go to http://localhost:8501
 ```
+---
 
 # 🎮 How to Use
 - Open the application in your web browser
@@ -54,17 +61,19 @@ Open your browser and go to http://localhost:8501
 
 # 🏗️ Project Structure
 text <br>
-Girlfriend-GPT/
-├── app.py          # Main application file
-├── requirements.txt           # Python dependencies
-├── README.md                 # This documentation file
-├── models/                   # Trained models directory
-│   ├── chatbot_model.h5      # Keras model (generated)
-│   ├── words.pkl             # Vocabulary (generated)
-│   └── classes.pkl           # Classes (generated)
+Girlfriend-GPT/<br>
+├── app.py          # Main application file<br>
+├── requirements.txt           # Python dependencies<br>
+├── README.md                 # This documentation file<br>
+├── models/                   # Trained models directory<br>
+│   ├── chatbot_model.h5      # Keras model (generated)<br>
+│   ├── words.pkl             # Vocabulary (generated)<br>
+│   └── classes.pkl           # Classes (generated)<br>
 |── data/
 |    |── intents.json
 |── train_model.py
+
+---
 
 ## 🧠 Model Architecture
 - The chatbot uses a neural network with the following architecture:
@@ -80,6 +89,8 @@ Girlfriend-GPT/
     - Model Training: 200 epochs with batch size of 5
     - Intent Prediction: Probability threshold of 0.25
 
+---
+
 # 🌐 Deployment
 Deploy to Streamlit Cloud
 Fork this repository on GitHub
@@ -90,6 +101,7 @@ Select your repository and set main file to girlfriend_gpt.py
 
 Click Deploy - your app will be live in minutes!
 
+---
 
 ## 📑 Customizing Responses
 Edit the girlfriend variable in the code to add new intents and responses:
@@ -101,6 +113,8 @@ Edit the girlfriend variable in the code to add new intents and responses:
       "responses": ["Hey babe 😊 How was your day?", "Hi! I've missed you 💕 What did you do today?", "Hello, my love! 🥰 Seeing your name pop up made me smile.", "Hey you! 💖 I was just thinking about you.", "Hi sweetheart! 😘 Tell me everything!", "Well hello there, handsome! 😍 This is a nice surprise!", "Hey sunshine! ☀️ You just brightened my day!", "Hi my love! My heart did a little jump when I saw your message. 💓", "Good morning, sleepyhead! 😴💤 Did you dream of me?", "Hey you! I was hoping you'd text. 💌"]
     }
 ```
+---
+
 
 # 🤝 Contributing
 - We welcome contributions! Please follow these steps:
@@ -129,6 +143,8 @@ Format code:
 ```bash
 black app.py
 ```
+---
+
 # 🐛 Troubleshooting
 Common Issues
 NLTK data not found:
@@ -155,6 +171,8 @@ Search existing GitHub Issues
 
 Create a new issue with details about your problem
 
+---
+
 # ❓ FAQ
 Q: How accurate is the chatbot?
 A: The model typically achieves around 95% accuracy after training with the provided dataset.
@@ -174,8 +192,12 @@ A: Add more training examples to each intent, increase training epochs, or adjus
 Q: Does this work on mobile devices?
 A: Yes, the Streamlit interface is fully responsive and works on mobile devices.
 
+---
+
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Boost Software License - see the LICENSE file for details.
+
+---
 
 ## 🙏 Acknowledgments
 Built with Streamlit for the web interface
@@ -186,9 +208,12 @@ Natural Language Processing with NLTK
 
 Inspired by conversational AI projects and chatbot frameworks
 
+---
+
 ## 👥 Contributors
 Subhadip Sinha - Creator and maintainer
 
+---
 
 # 📞 Support
 - If you like this project, please give it a star ⭐ on GitHub!
@@ -201,15 +226,18 @@ Email: your-sinhasubhadip34@gmail.com
 - Boyfriend GPT - Male version of the chatbot
 - Anime Character AI - Anime-themed chatbot
 - Chatbot Framework - General purpose chatbot framework
+---
 
 ## 📊 Stats
-<img src="https://img.shields.io/github/forks/subhadipsinha722133/girlfriend-gp?style=social">
-<img src="https://img.shields.io/github/stars/subhadipsinha722133/girlfriend-gpt?style=social">
-<img src="https://img.shields.io/github/issues/subhadipsinha722133/girlfriend-gpt">
-<img src="https://img.shields.io/github/issues-pr/subhadipsinha722133/girlfriend-gpt">
+<img src="https://img.shields.io/github/forks/subhadipsinha722133/Girlfriend-GPT-?style=social">
+<img src="https://img.shields.io/github/stars/subhadipsinha722133/Girlfriend-GPT-?style=social">
+<img src="https://img.shields.io/github/issues/subhadipsinha722133/Girlfriend-GPT-">
+<img src="https://img.shields.io/github/issues-pr/subhadipsinha722133/Girlfriend-GPT-">
 
+---
 
 <div align="center"> Made with ❤️ and Python </div>
+
 
 
 
