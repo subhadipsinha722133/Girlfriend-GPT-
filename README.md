@@ -71,9 +71,9 @@ Girlfriend-GPT/<br>
 │   ├── chatbot_model.h5      # Keras model (generated)<br>
 │   ├── words.pkl             # Vocabulary (generated)<br>
 │   └── classes.pkl           # Classes (generated)<br>
-|── data/
-|    |── intents.json
-|── train_model.py
+|── data/<br>
+|    |── intents.json<br>
+|── train_model.py<br>
 
 ---
 
