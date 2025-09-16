@@ -188,7 +188,7 @@ def main():
     # Sidebar with info
     with st.sidebar:
         st.title("💕 Girlfriend GPT")
-        st.sidebar.image("gf.gif")
+        st.sidebar.image("girlfriend.gif")
         st.markdown("---")
         st.markdown("### System Info")
         if model is not None:
@@ -296,5 +296,6 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
 
