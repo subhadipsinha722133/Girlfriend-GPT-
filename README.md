@@ -4,7 +4,7 @@ An interactive AI girlfriend chatbot with multiple personalities, built with Str
 ---
 
 ## 📊 Stats
-<img src="https://img.shields.io/github/forks/subhadipsinha722133/Girlfriend-GPT-?style=social"><img src="https://img.shields.io/github/stars/subhadipsinha722133/Girlfriend-GPT-?style=social"><img src="https://img.shields.io/github/issues/subhadipsinha722133/Girlfriend-GPT-"><img src="https://img.shields.io/github/issues-pr/subhadipsinha722133/Girlfriend-GPT-"><img src="https://img.shields.io/badge/Girlfriend-GPT-pink"><img src="https://img.shields.io/badge/Python-3.8%252B-blue"><img src="https://img.shields.io/badge/Streamlit-1.28%252B-red"> <img src="https://img.shields.io/badge/Keras-2.12%252B-orange"><img src="https://img.shields.io/badge/License-Boost Software License-green">
+<img src="https://img.shields.io/github/forks/subhadipsinha722133/Girlfriend-GPT-?style=social">  <img src="https://img.shields.io/github/stars/subhadipsinha722133/Girlfriend-GPT-?style=social">  <img src="https://img.shields.io/github/issues/subhadipsinha722133/Girlfriend-GPT-">  <img src="https://img.shields.io/github/issues-pr/subhadipsinha722133/Girlfriend-GPT-">   <img src="https://img.shields.io/badge/Girlfriend-GPT-pink">  <img src="https://img.shields.io/badge/Python-3.8%252B-blue">  <img src="https://img.shields.io/badge/Streamlit-1.28%252B-red"> <img src="https://img.shields.io/badge/Keras-2.12%252B-orange">  <img src="https://img.shields.io/badge/License-Boost Software License-green">
 
 ---
 
