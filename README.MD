@@ -3,7 +3,7 @@ An interactive AI girlfriend chatbot with multiple personalities, built with Str
 
 <img src="https://img.shields.io/badge/Girlfriend-GPT-pink https://img.shields.io/badge/Python-3.8%252B-blue">
 <img src="https://img.shields.io/badge/Streamlit-1.28%252B-red"> 
-<img src="https://img.shields.io/badge/Keras-2.12%252B-orange https://img.shields.io/badge/License-MIT-green">
+<img src="https://img.shields.io/badge/Keras-2.12%252B-orange https://img.shields.io/badge/License-Boost Software License-green">
 ---
 
 🌟 Live Demo
@@ -237,6 +237,7 @@ Email: your-sinhasubhadip34@gmail.com
 ---
 
 <div align="center"> Made with ❤️ and Python </div>
+
 
 
 
