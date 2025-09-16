@@ -54,24 +54,13 @@ Open your browser and go to http://localhost:8501
 ```
 
 # 🎮 How to Use
-Open the application in your web browser
-
-Train the model by clicking the "Train Model" button in the sidebar
-
-Wait for training to complete (typically takes 1-2 minutes)
-
-Start chatting by typing messages in the chat input
-
-View model accuracy in the sidebar after training
-
-Example Conversations
-Girlfriend mode: "Write a poem for me" → Romantic poetry response
-
-Bro mode: "bro have any good jokes" → Funny jokes and banter
-
-Anime mode: "hi there Mikasa" → Mikasa Ackerman responses
-
-Advice mode: "bro should I play games or study" → Helpful advice
+- Open the application in your web browser
+- Train the model by clicking the "Train Model" button in the sidebar
+- Wait for training to complete (typically takes 1-2 minutes)
+- Start chatting by typing messages in the chat input
+- View model accuracy in the sidebar after training
+- Example Conversations
+    - Girlfriend mode: "Write a poem for me" → Romantic poetry response
 
 # 🏗️ Project Structure
 text <br>
@@ -251,3 +240,4 @@ Chatbot Framework - General purpose chatbot framework
 
 
 <div align="center"> Made with ❤️ and Python </div>
+
