@@ -49,7 +49,7 @@ pip install -r requirements.txt
 Run the application
 
 ```bash
-streamlit run girlfriend_gpt.py
+streamlit run app.py
 Open your browser and go to http://localhost:8501
 ```
 
@@ -248,5 +248,6 @@ Chatbot Framework - General purpose chatbot framework
 <img src="https://img.shields.io/github/stars/yourusername/girlfriend-gpt?style=social">
 <img src="https://img.shields.io/github/issues/yourusername/girlfriend-gpt">
 <img src="https://img.shields.io/github/issues-pr/yourusername/girlfriend-gpt">
+
 
 <div align="center"> Made with ❤️ and Python </div>
