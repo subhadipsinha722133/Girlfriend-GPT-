@@ -56,9 +56,9 @@ DEFAULT_INTENTS = {
 @st.cache_resource
 def load_chatbot_model():
     # Check if model files exist in the current directory
-    model_path = 'model.h5'
-    words_path = 'words.pkl'
-    classes_path = 'classes.pkl'
+    model_path = 'models/model.h5'
+    words_path = 'models/words.pkl'
+    classes_path = 'models/classes.pkl'
     intents_path = 'intents.json'
     
     # Check if files exist
@@ -294,4 +294,5 @@ def main():
             st.session_state.messages = st.session_state.messages[-20:]
 
 if __name__ == "__main__":
+
     main()
