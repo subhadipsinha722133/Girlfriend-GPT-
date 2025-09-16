@@ -13,7 +13,7 @@ import os
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:
-    nltk.download('punkt')
+    nnltk.download("punkt_tab")
 try:
     nltk.data.find('corpora/wordnet')
 except LookupError:
@@ -296,3 +296,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
