@@ -94,14 +94,11 @@ Girlfriend-GPT/<br>
 ---
 
 # 🌐 Deployment
-Deploy to Streamlit Cloud
-Fork this repository on GitHub
-
-Connect your GitHub account to Streamlit Cloud
-
-Select your repository and set main file to app.py
-
-Click Deploy - your app will be live in minutes!
+- Deploy to Streamlit Cloud
+- Fork this repository on GitHub
+    - Connect your GitHub account to Streamlit Cloud
+    - Select your repository and set main file to app.py
+    - Click Deploy - your app will be live in minutes!
 
 ---
 
@@ -176,22 +173,22 @@ Create a new issue with details about your problem
 ---
 
 # ❓ FAQ
-Q: How accurate is the chatbot?
+Q: How accurate is the chatbot? <br>
 A: The model typically achieves around 95% accuracy after training with the provided dataset.
 
-Q: Can I add custom responses?
+Q: Can I add custom responses?<br>
 A: Yes! Edit the girlfriend variable in the code to add new intents and responses.
 
-Q: Is my chat data stored?
+Q: Is my chat data stored?<br>
 A: No, all conversations are stored only in your browser session and are not saved to any server.
 
-Q: Can I deploy this commercially?
+Q: Can I deploy this commercially?<br>
 A: Please check the MIT license terms for commercial use.
 
-Q: How can I improve the model accuracy?
+Q: How can I improve the model accuracy?<br>
 A: Add more training examples to each intent, increase training epochs, or adjust the neural network architecture.
 
-Q: Does this work on mobile devices?
+Q: Does this work on mobile devices?<br>
 A: Yes, the Streamlit interface is fully responsive and works on mobile devices.
 
 ---
@@ -202,13 +199,10 @@ This project is licensed under the Boost Software License - see the LICENSE file
 ---
 
 ## 🙏 Acknowledgments
-Built with Streamlit for the web interface
-
-Uses Keras and TensorFlow for machine learning
-
-Natural Language Processing with NLTK
-
-Inspired by conversational AI projects and chatbot frameworks
+- Built with Streamlit for the web interface
+- Uses Keras and TensorFlow for machine learning
+- Natural Language Processing with NLTK
+- Inspired by conversational AI projects and chatbot frameworks
 
 ---
 
