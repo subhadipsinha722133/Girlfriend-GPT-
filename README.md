@@ -99,7 +99,7 @@ Fork this repository on GitHub
 
 Connect your GitHub account to Streamlit Cloud
 
-Select your repository and set main file to girlfriend_gpt.py
+Select your repository and set main file to app.py
 
 Click Deploy - your app will be live in minutes!
 
