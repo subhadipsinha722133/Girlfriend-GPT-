@@ -158,7 +158,7 @@ pip install tensorflow==2.13.0 keras==2.13.1
 Port already in use:
 ```
 ```bash
-streamlit run --server.port 8502 girlfriend_gpt.py
+streamlit run --server.port 8502 app.py
 Memory errors on deployment: Reduce model complexity or use pre-trained models
 ```
 Getting Help
