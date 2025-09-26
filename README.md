@@ -216,7 +216,7 @@ Subhadip Sinha - Creator and maintainer
 - For questions and support:
 - Open an issue
 
-Email: your-sinhasubhadip34@gmail.com
+Email: sinhasubhadip34@gmail.com
 
 # 🔗 Related Projects
 - Boyfriend GPT - Male version of the chatbot
